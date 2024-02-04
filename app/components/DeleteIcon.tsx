@@ -1,12 +1,12 @@
 export const DeleteIcon = ({
-  fill = 'currentColor',
-  filled,
-  size,
-  height,
-  width,
-  label,
-  ...props
-}: {
+                             fill = 'currentColor',
+                             filled,
+                             size,
+                             height,
+                             width,
+                             label,
+                             ...props
+                           }: {
   fill?: string;
   filled?: boolean;
   size?: string;
