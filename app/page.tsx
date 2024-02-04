@@ -56,7 +56,7 @@ export default function Home() {
             setInputValue('')
           }}
         />
-        <Button size='lg'>
+        <Button size='lg' onClick={handleSubmit}>
           Add
         </Button>
       </form>
